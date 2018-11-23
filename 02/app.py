@@ -1,4 +1,5 @@
-"""Main app module."""
+"""02/app.py
+Clint's new main app module."""
 
 
 import sys
